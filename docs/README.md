@@ -2,7 +2,7 @@
 
 Welcome to the **ProcessGo Plus** documentation. This guide will walk you through the features and functionality of the ProcessGo Plus software suite.
 
-## Key Sections
+# Key Sections
 - [Integration Platform](#/integration)
 - [Payroll System](#/payroll)
 - [Bookkeeping System](#/bookkeeping)
