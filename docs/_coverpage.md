@@ -12,4 +12,4 @@
 - AP/AR Automation
 
 [GitHub]()
-[Get Started](#README)
+[Get Started](#docsify)
