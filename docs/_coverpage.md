@@ -47,4 +47,4 @@
 </style>
 
 [GitHub](# 'class:btn')
-[Get Started](#docsify 'class:btn')
+[Get Started](#guide 'class:btn')
