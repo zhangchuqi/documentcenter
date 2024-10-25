@@ -19,7 +19,7 @@
 }
 
 section.cover img:first-child {
-  filter: drop-shadow(5px 5px 100px var(--theme-color, #42b983));
+  filter: drop-shadow(5px 5px 100px var(--theme-color, #5e8aeb));
 }
 
 section.cover .cover-main > p:last-child a {
@@ -101,12 +101,12 @@ section.cover ul {
   }
 
   section.cover img:first-child {
-  width: 100%; /* 图片宽度填满父容器 */
-  height: 100%; /* 图片高度填满父容器 */
-  object-fit: cover; /* 保持图片比例，填满区域 */
-  position: absolute; /* 使用绝对定位，让图片定位于父容器内 */
-  top: 0;
-  left: 0;
+    float: right;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    width: 270px;
   }
 }
   </style>

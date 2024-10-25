@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](./assets/7%20-%20Business%20process_4.svg ':size=100%')
+![logo](./assets/PGO%20Plus%20Logo1234.png ':size=100%')
 
 # ProcessGo Plus <small>2.1</small>
 
