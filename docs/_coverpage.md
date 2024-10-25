@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](./assets/logo2-04.svg ':size=3%')
+![logo](./assets/7%20-%20Business%20process_4.svg ':size=100%')
 
-# ProcessGo Plus <small>3.5</small>
+# ProcessGo Plus <small>2.1</small>
 
 > Document Center
 
