@@ -12,4 +12,7 @@
 - AP/AR Automation
 
 [GitHub]()
-[Get Started](#/README)  <!-- 或者使用跳转到 guide.md 的路径 [Get Started](#/guide) -->
+[Get Started](README.md)  <!-- 或者使用跳转到 guide.md 的路径 [Get Started](#/guide) -->
+
+<!-- 背景色 -->
+![color](#fff)
