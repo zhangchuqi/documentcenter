@@ -6,10 +6,7 @@
 
 > Document Center
 
-- Integration Platform
-- Payroll Platform
-- Bookkeeping Platform
-- AP/AR Automation
+- Comprehensive Solutions for Efficient Business Management
 
 [GitHub]()
 [Get Started](README.md)  <!-- 或者使用跳转到 guide.md 的路径 [Get Started](#/guide) -->
