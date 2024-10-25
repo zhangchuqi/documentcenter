@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](assets/logo2-04.svg=100x100)
+![logo](assets/logo2-04.svg=10%)
 
 # docsify <small>3.5</small>
 
