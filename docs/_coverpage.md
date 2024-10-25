@@ -12,7 +12,7 @@
 - AP/AR Automation
 
 [GitHub](# 'class:btn')
-[Get Started](#guide 'class:btn')
+[Get Started](#/README 'class:btn')
 
 <style>
   body {
