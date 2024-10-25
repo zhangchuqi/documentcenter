@@ -101,13 +101,12 @@ section.cover ul {
   }
 
   section.cover img:first-child {
-    float: right;
-    position: relative;
-    top: 20%;
-    left: 35%;
-    transform: none;
-    object-fit: cover;
-    width: 100%;
+  width: 100%; /* 图片宽度填满父容器 */
+  height: 100%; /* 图片高度填满父容器 */
+  object-fit: cover; /* 保持图片比例，填满区域 */
+  position: absolute; /* 使用绝对定位，让图片定位于父容器内 */
+  top: 0;
+  left: 0;
   }
 }
   </style>
