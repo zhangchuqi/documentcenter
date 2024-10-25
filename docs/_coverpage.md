@@ -4,7 +4,7 @@
 
 # ProcessGo Plus <small>3.5</small>
 
-> ProcessGo Plus is a comprehensive software family designed to streamline various business processes through its modular systems. It includes:.
+> Document Center
 
 - Integration Platform
 - Payroll Platform
