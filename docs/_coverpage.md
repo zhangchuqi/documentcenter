@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](assets/logo2-04.svg ':size=10%')
+![logo](./assets/logo2-04.svg ':size=10%')
 
 # ProcessGo Plus <small>3.5</small>
 
