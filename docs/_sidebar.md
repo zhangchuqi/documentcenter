@@ -1,3 +1,7 @@
 <!-- docs/_sidebar.md -->
-* [Home](/)
-* [Guide](guide.md "The greatest guide in the world")
+* [Home](README.md)
+* [Integration Platform](integration.md)
+* [Payroll System](payroll.md)
+* [Bookkeeping System](bookkeeping.md)
+* [AP/AR Automation](ap-ar.md)
+* [Guide](guide.md)

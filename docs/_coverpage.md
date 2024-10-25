@@ -11,5 +11,5 @@
 - Bookkeeping Platform
 - AP/AR Automation
 
-[GitHub](# 'class:btn')
-[Get Started](#/README 'class:btn')
+[GitHub]()
+[Get Started](#README)
