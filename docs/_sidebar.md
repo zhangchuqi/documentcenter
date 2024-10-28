@@ -1,6 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [Home](README.md)
-- [Introduction](#introduction)
+* [Introduction](#introduction)
 - [Quick Start](quick-start.md)
 - [Configuration](configuration.md)
 - [Features](features.md)

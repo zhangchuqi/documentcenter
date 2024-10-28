@@ -2,7 +2,7 @@
 
 Welcome to the ProcessGo Plus Integration documentation. This guide is designed to help you understand, configure, and use ProcessGo Plus to connect and integrate various systems, applications, and data sources. As a powerful SaaS platform, ProcessGo Plus allows you to automate workflows, synchronize data in real-time, and enhance operational efficiency across your organization.
 
-## Table of Contents
+## Introduction
 
 - [Introduction](#introduction)
   - What is ProcessGo Plus?
